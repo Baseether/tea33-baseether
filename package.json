@@ -1,0 +1,33 @@
+{
+  "name": "tea33-baseether",
+  "version": "1.0.0",
+  "description": "Web3 shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Baseether/tea33-baseether.git"
+  },
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^5.5.0",
+    "fs": "^0.0.1-security",
+    "tea01-tankqing88": "^1.0.0",
+    "web3": "^4.3.0"
+  },
+  "keywords": [
+    "[\"utils\"",
+    "\"format\"",
+    "\"money\"",
+    "\"phone\"]"
+  ],
+  "author": "Baseether",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baseether/tea33-baseether/issues"
+  },
+  "homepage": "https://github.com/Baseether/tea33-baseether#readme"
+}
